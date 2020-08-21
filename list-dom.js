@@ -30,7 +30,7 @@ function ListDOM(obj) {
     fullTest(test)
   }
   if(!test && !desired) {
-    console.error('ListDOM: Invalid input! Check documentation: (link)')
+    console.error('ListDOM: Invalid input! Check documentation: (https://github.com/entrpyc/list-dom/blob/master/README.md)')
   }
 
   function fullTest(test) {

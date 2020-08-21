@@ -1,28 +1,26 @@
 {
-  "name": "scroll-horizontal",
-  "version": "1.0.8",
-  "description": "scroll-horizontal is a lightweight vanilla script that enables you to change the default scroll direction either for a single section or for a whole page",
-  "main": "scroll-horizontal.js",
+  "name": "list-dom",
+  "version": "1.0.1",
+  "description": "list-dom adds Array.prototype methods to HTMLCollection - enables you to use forEach, map, filter, etc. on the DOM",
+  "main": "list-dom.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/entrpyc/scroll-horizontal"
+    "url": "git+https://github.com/entrpyc/list-dom"
   },
   "keywords": [
-    "scroll",
-    "horizontal",
-    "section",
-    "direction",
-    "switch",
-    "manipulate",
-    "change"
+    "foreach",
+    "htmlcollection",
+    "dom",
+    "list",
+    "array"
   ],
   "author": "entrpyc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/entrpyc/scroll-horizontal/issues"
+    "url": "https://github.com/entrpyc/list-dom/issues"
   },
-  "homepage": "https://a-angelov.eu/packages/scroll-horizontal"
+  "homepage": "https://github.com/entrpyc/list-dom"
 }
