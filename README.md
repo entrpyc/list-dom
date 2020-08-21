@@ -2,13 +2,23 @@
 
 ## Installation and Setup
 
-Install the package
-- `npm i list-dom`
+Install with npm:
 
-import it in your project
+```
+npm i list-dom
+```
+
+Install with CDN:
+
+```html
+<script src="https://a-angelov.eu/packages/list-dom/cdn/list-dom.js"></script>
+```
+
+
+import js in your project
 
 ```js
-import ListDOM from '../modules/list-dom';
+import ListDOM from 'list-dom';
 ```
 
 Template:
