@@ -2,7 +2,7 @@
   "name": "list-dom",
   "version": "1.0.3",
   "description": "list-dom adds Array.prototype methods to HTMLCollection - enables you to use forEach, map, filter, etc. on the DOM",
-  "main": "list-dom.js",
+  "main": "list-dom.min.js",
   "scripts": {
     "test": "test"
   },
