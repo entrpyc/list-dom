@@ -90,5 +90,3 @@ function ListDOM(obj) {
   }
   
 }
-
-export default ListDOM

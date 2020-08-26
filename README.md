@@ -1,5 +1,7 @@
 # List DOM
 
+This script will allow you to use forEach, filter, map and other methods on HTMLCollection data. Selectors like getElementsByClassName will return such data for which you'll find list-dom usefull. 
+
 ## Installation and Setup
 
 Install with npm:
@@ -14,14 +16,7 @@ Install with CDN:
 <script src="https://a-angelov.eu/packages/list-dom/cdn/list-dom.js"></script>
 ```
 
-
-import js in your project
-
-```js
-import ListDOM from 'list-dom';
-```
-
-Template:
+### Template:
 
 ```js
 ListDOM({
@@ -29,7 +24,7 @@ ListDOM({
 })
 ```
 
-### Usage
+## Usage
 
 Basic exmaple
 
